@@ -1,0 +1,698 @@
+>00003|APD|Hs-AFP1 (HsAFP1, H. sanguinea antifungal protein 1; defensins; natural AMPs; 4S=S; UCSS1a; BBS; BBMm_lipid?; plants)|Heuchera sanguinea
+DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC
+>00237|APD|Phoratoxin (natural AMPs; UCSS1a; 3S=S; plants)|California mistletoe  Phoradendron tomentosum subsp. macrophyllum (Loranthaceae)
+KSCCPTTTARNIYNTCRFGGGSRPVCAKLSGCKIISGTKCDSGWNH
+>00203|APD|Mj-AMP1 (MjAMP1, natural AMPs; knottin-type peptide; Jalapa defensin; UCSS1a;   3S=S; plants)|Garden four-o'clock Mirabilis jalapa
+QCIGNGGRCNENVGPPYCCSGFCLRQPGQGYGYCKNR
+>00194|APD|Ac-AMP2 (A. caudatus antimicrobial peptide 2, natural AMPs; UCSS1a; 3S=S, chitin-binding, plants; BBS)|seeds, Amaranthus caudatus
+VGECVRGRCPSGMCCSQFGYCGKGPKYCGR
+>00103|APD|NmDef02 (defensins; natural AMPs; 3S=S, UCSS1a; plants)|Nicotiana megalosiphon
+RECKAQGRHGTCFRDANCVQVCEKQAGWSHGDCRAQFKCKCIFEC
+>00270|APD|Pn-AMP1 (PnAMP1, natural AMPs; Hevein-like; UCSS1a; 4S=S; chitin-binding; plants; BBS)|Japanese morning glory, Pharbitis nil
+QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCRS
+>00236|APD|Pyrularia thionin (Pp-TH, Pp-defensin? natural AMPs; UCSS1a; 4S=S; plants)|nuts, Pyrularia pubera
+KSCCRNTWARNCYNVCRLPGTISREICAKKCDCKIISGTTCPSDYPK
+>00184|APD|MBP-1 (Maize Basic Peptide 1; Arg-rich; natural AMPs; hairpin-like peptides; plants; 2S=S, UCSS1a)|Maize, Zea mays L.
+RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG
+>00286|APD|Rs-AFP1 (RsAFP1, Raphanus sativus-antigungal protein 1, natural AMPs; defensin; XXQ, UCSS1a; 4S=S, plants)|Radish seeds, Raphanus sativus , Brassicaceae species
+QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+>00274|APD|Circulin A (CirA, natural AMPs; XXC: cyclotides;  3S=S; UCBB1aB; plants; ZZHp)|Chassalia parviflora
+GIPCGESCVWIPCISAALGCSCKNKVCYRN
+>00282|APD|Cyclopsychotride A (CPT; natural AMPs; XXC; cyclotides; UCBB1aB; 3S=S; plants)|Psychotria longipes
+SIPCGESCVFIPCTVTALLGCSCKSKVCYKN
+>00275|APD|Circulin B (CirB, natural AMPs; XXC; cyclotides; UCBB1aB; plants; ZZHp; 3S=S)|Chassalia parviflora
+GVIPCGESCVFIPCISTLLGCSCKNKVCYRN
+>00004|APD|Ct-AMP1 (CtAMP1, C. ternatea-antimicrobial peptide 1; defensins; natural AMPs; 4S=S, UCSS1a; plants)|Clitoria ternatea
+NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFDC
+>00202|APD|Mj-AMP2 (MjAMP2, natural AMPs; knottin-type peptide; UCSS1a;  3S=S; plants)|Garden four-o'clock Mirabilis jalapa
+CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR
+>00287|APD|Rs-AFP2 (RsAFP2, Raphanus sativus-antigungal protein 2, natural AMPs; plant defensin, UCSS1a; XXQ, 4S=S; BBMm_GlcCerMOA; plants)|radish seeds, Raphanus sativus, Brassicaceae species
+QKLCQRPSGTWSGVCGNNNACKNQCIRLEKARHGSCNYVFPAHKCICYFPC
+>00288|APD|So-D1 (S. oleracea defensin 1; natural AMPs; spinach, plants; BWQ; unclassified)|Leaves and stems, Spinacia oleracea
+TCESPSHKFKGPCATNRNCES
+>00289|APD|So-D3 (S. oleracea defensin 3; natural AMPs; BWQ? UCSS1a; spinach, plants)|Leaves and stems, Spinacia oleracea
+GIFSSRKCKTVSKTFRGICTRNANC
+>00290|APD|So-D4 (S. oleracea defensin 4; natural AMPs; BWQ? UCSS1a; spinach, plants)|Leaves and stems, Spinacia oleracea
+MFFSSKKCKTVSKTFRGPCVRNA
+>00291|APD|So-D5 (S. oleracea defensin 5; natural AMPs; BWQ? UCSS1a; spinach, plants)|Leaves and stems, Spinacia oleracea
+MFFSSKKCKTVSKTFRGPCVRNAN
+>00292|APD|So-D7 (S. oleracea defensin 7; natural AMPs; 2S=S?, UCSS1a; spinach, plants)|Leaves and stems, Spinacia oleracea
+GIFSSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD
+>00296|APD|Fabatin-1 (4S=S;  natural AMPs; defensins, UCSS1a; plants)|Broad bean, Vicia faba
+LLGRCKVKSNRFHGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC
+>00402|APD|VrD2 (Vigna radiata defensin 2, natural AMPs; 4S=S, UCSS1a;  plant defensin, mung bean; plants)|Vigna radiata
+KTCENLANTYRGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTRNC
+>00297|APD|Fabatin-2 (natural AMPs; 4S=S; defensins; UCSS1a;  plants)|Broad bean, Vicia faba
+LLGRCKVKSNRFNGPCLTDTHCSTVCRGEGYKGGDCHGLRRRCMCLC
+>00342|APD|Mc-AMP1 (M. crystallinum Antimicrobial peptide 1, natural AMPs; knottin-type peptide, plants; 2S=S; UCSS1a)|Common ice plant, Mesembryanthemum crystallinum
+AKCIKNGKGCREDQGPPFCCSGFCYRQVGWARGYCKNR
+>00355|APD|Ginkbilobin (Bai Guo; natural AMPs; plants; BWQ; unclassified)|seeds, Ginkgo biloba,  Asia
+ANTAFVSSAHNTQKIPAGAPFNRNLRAMLADLRQNAAFAG
+>00428|APD|MiAMP1 (M. integrifolia  antimicrobial peptide 1, natural AMPs; UCSS1a; plants; 3S=S)|Macadamia nut, Macadamia integrifolia
+SAFTVWSGPGCNNRAERYSKCGCSAIHQKGGYDFSYTGQTAALYNQAGCSGVAHTRFGSSARACNPFGWKSIFIQC
+>00436|APD|Ah-AMP1 (A. hippocastanum antimicrobial peptide 1, natural AMPs; defensin; UCSS1a; 3S=S; plants)|Horse chestnuts, Aesculus hippocastanum
+LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC
+>00483|APD|PsD1 (Pisum sativvm defensin 1; natural AMPs; UCSS1a; plants; 4S=S)|Pea seeds, Pisum sativvm
+KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC
+>00446|APD|Alpha-basrubrin (Fragment, natural AMPs; plants)|edible Chinese vegetable, Malabar spinach
+GADFQECMKEHSQKQHQHQG
+>00479|APD|Antifungal protein 1 (PAFP-S; Pa-AMP-1, PaAMP-1, Pa-AMP1; natural AMPs; knottin-type peptide; defensins; C6 type, UCSS1a; plants; 3S=S)|pokeweed seeds, Phytolacca americana
+AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR
+>00495|APD|Pseudo-hevein (natural AMPs; 4S=S, UCSS1a; Minor hevein, hevein-like peptides; plants)|Para rubber tree
+EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG
+>00511|APD|Shepherin I (natural AMPs; Gly-rich; His-rich; plants)|roots, shepherd's purse, Capsella bursa-pastoris
+GYGGHGGHGGHGGHGGHGGHGHGGGGHG
+>00512|APD|Shepherin II (natural AMPs; Gly-rich; plants)|roots, shepherd's purse, Capsella bursa-pastoris
+GYHGGHGGHGGGYNGGGGHGGHGGGYNGGGHHGGGGHG
+>00532|APD|Lunatusin (natural AMPs; plants, ZZHp, BWQ; unclassified)|Phaseolus lunatus L. (lima bean)
+KTCENLADTFRGPCFATSNC
+>00518|APD|Ib-AMP3 (Ib antimicrobial peptide 3, natural AMPs; UCSS1a; 2S=S, plants, XXQ)|seeds, Impatiens balsamina (Ib)
+QYRHRCCAWGPGRKYCKRWC
+>00519|APD|Ib-AMP4  (Ib antimicrobial peptide 4, Arg-rich; natural AMPs; UCSS1a; 2S=S, plants, XXQ, BBMm; Derivatives made for SeqAR)|seeds, Impatiens balsamina (Ib)
+QWGRRCCGWGPGRRYCRRWC
+>00550|APD|Tu-AMP 1 (TuAMP1, natural AMPs; thionin-like antimicrobial peptides, plants, tulip; 4S=S; UCSS1a)|Albtulip, Tulipa gesneriana L.
+KSCCRNTVARNCYNVCRIPGTPRPVCAATCDCKLITGTKCPPGYEK
+>00553|APD|Sesquin (natural AMPs; defensins, plants, ZZHp; BWQ, unclassified)|Seeds, Vigna sesquipedalis, ground bean
+KTCENLADTY
+>00715|APD|VaD1 (natural AMPs; defensins; plants; 4S=S; UCSS1a)|Seeds, Vigna angularis Kao Hsiung #6
+RTCMKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC
+>00560|APD|Dendrocin (natural AMPs; plants, bamboo; BWQ)|bamboo shoots, Dendrocalamus latiflora Munro
+TTLTLHNLCPYPVWWLVTPNNGGFPIIDNTPVVLG
+>00534|APD|Tu-AMP 2 (TuAMP2, natural AMPs; thionin-like antimicrobial peptides, natural AMPs; 4S=S; UCSS2a; plants, tulip)|tulip, Tulipa gesneriana L.
+KSCCRNTTARNCYNVCRIPG
+>00716|APD|VrD1 (V. radiata defensin 1; natural AMPs; 3S=S; UCSS1a; plants; ZZI)|seeds, Vigna radiata
+RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC
+>00563|APD|White cloud bean defensin (Pv-defensin; natural AMPs; UCSS1a; 4S=S, plants)|Phaseolus vulgaris cv. ‘white cloud bean’
+KTCENLADTFRGPCFATSNCDDHCKNKEHLLSGRCRDDFRCWCTRNC
+>00717|APD|PPT (defensins; UCSS1a; 3S=S, plants; DXWZ)|pistil, Petunia inflate
+RTCESQSHRFHGTCVRESNCASVCQTEGFIGGNCRAFRRRCFCTRNC
+>00720|APD|P322 (defensins; natural AMPs; UCSS1a; 4S=S,  plants)|tuber, potato, Solanum tuberosum
+RHCESLSHRFKGPCTRDSNCASVCETERFSGGNCHGFRRRCFCTKPC
+>00730|APD|Kalata B8 (natural AMPs; cyclotides, ZZHp; plants; 3S=S, UCBB1aB; XXC)|African herb, Oldenlandia affinis
+GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD
+>00729|APD|Kalata B1 (KB1; XXC; natural AMPs; cyclotides; UCBB1aB; 3S=S; plants; ZZHp; ZZi; BBMm; BBBm; Derivatives: kalata B1 oia or nfk; XXO)|African herb, Oldenlandia affinis
+GLPVCGETCVGGTCNTPGCTCSWPVCTRN
+>00913|APD|Ib-AMP1 (IbAMP1, Ib antimicrobial peptide 1; natural AMPs; UCSS1a; 2S=S;  plants, XXQ)|seeds, Impatiens balsamina (Ib)
+QWGRRCCGWGPGRRYCVRWC
+>00912|APD|Ar-AMP (ArAMP, A. retroflexus antimicrobial peptide, natural AMPs; hevein-like family; UCSS1a; 3S=S; plants)|Amaranthus retroflexus L.
+AGECVQGRCPSGMCCSQFGYCGRGPKYCGR
+>00914|APD|Ib-AMP2 (IBAMP2,  Ib antimicrobial peptide 2; natural AMPs; UCSS1a; 2S=S; plants, XXQ)|seeds, Impatiens balsamina (Ib)
+QYGRRCCNWGPGRRYCKRWC
+>00916|APD|Cryptdin-2 (Crp2, cryp02, natural AMPs; defensins, alpha; UCSS1a; mouse, rodents, mammals, animals; 3S=S)|small intestine, mice, Mus musculus
+LRDLVCYCRTRGCKRRERMNGTCRKGHLMYTLCCR
+>00918|APD|Dm-AMP1 (DmAMP1, Dahlia defensin, C8 type; natural AMPs; 4s=s;  UCSS1a; BBMm_M(IP)2C; plants)|seeds, Dahlia merckii
+ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC
+>00915|APD|Ee-CBP (E. europaeus chitin-binding protein; natural AMPs; a hevein-like peptide; 5s=s; UCSS1a; plants; BBS)|spindle tree, Euonymus europaeus L. (Ee)
+QQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCG
+>00919|APD|pSAS10 (natural AMPs; defensins; 4s=s; UCSS1a; plants)|seeds, cowpea, Vigna unguiculata
+KTCENLVDTYRGPCFTTGSCDDHCKNKEHLLSGRCRDDVRCWCTRNC
+>00917|APD|Pa-AMP2 (PaAMP2, defensins, C6 type; 3s=s; UCSS1a; plants; DXWZ)|pokeweed seeds, Phytolacca americana
+ACIKNGGRCVASGGPPYCCSNYCLQIAGQSYGVCKKH
+>00920|APD|pI230 (natural AMPs; defensins; 4s=s; UCSS1a; plants)|pod, pea, Pisum sativum
+NTCENLAGSYKGVCFGGCDRHCRTQEGAISGRCRDDFRCWCTKNC
+>00982|APD|PhD2 (P. hybrida defensin 2, natural AMPs; defensins; 5s=s; UCSS1a; plants)|petals, Petunia hybrida
+GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC
+>00922|APD|FST (defensins; natural AMPs; UCSS1a; plants; 4s=s)|flowers, Nicotiana tabacum
+RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKLLRRCLCTKPC
+>00921|APD|SIalpha2 (SIa2, natural AMPs; defensins; 4s=s; UCSS1a; plants)|seeds, Sorghum bicolor
+RVCMKGSAGFKGLCMRDQNCAQVCLQEGWGGGNCDGVMRQCKCIRQC
+>00978|APD|Ms-Def1 (MsDef1, M. sativa defensin 1, alfAFP, alf-AFP; alfalfa antifungal peptide, natural AMPs; defensins; UCSS1a; plants;  BBMm_GlcCerMOA; 4S=S)|alfalfa seeds, Medicago sativa
+RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC
+>00981|APD|PhD1 (P. hybrida defensin 1, natural AMPs; defensins; 5s=s; UCSS1a; plants)|petals, Petunia hybrida
+ATCKAECPTWDSVCINKKPCVACCKKAKFSDGHCSKILRRCLCTKEC
+>00979|APD|NaD1 (N. alata defensin 1, Na-D1; natural AMPs; defensins; 4s=s; UCSS1a; ZZI; plants; BBBH2o)|ornamental tobacco flowers, Nicotiana alata
+RECKTESNTFPGICITKPPCRKACISEKFTDGHCSKILRRCLCTKPC
+>00983|APD|CcD1 (natural AMPs; defensins; 4s=s; UCSS1a; plants)|Capsicum chinense
+QNNICKTTSKHFKGLCFADSKCRKVCIQEDKFEDGHCSKLQRKCLCTKNC
+>00985|APD|NeThio2  (natural AMPs; gamma-thionin; defensins; 4S=S; UCSS1a; plants)|Nicotiana excelsior
+KDCKTESNTFPGICITKPPCRKACIKEKFTDGHCSKILRRCLCTKPC
+>00984|APD|TPP3  (natural AMPs; defensins; 4S=S; UCSS1a; plants; BBMm)|tomato, Lycopersicon esculentum
+QICKAPSQTFPGLCFMDSSCRKYCIKEKFTGGHCSKLQRKCLCTKPC
+>00986|APD|NeThio1  (natural AMPs; defensins; 4S=S; UCSS1a; plants)|Nicotiana paniculata
+KSTCKAESNTFPGLCITKPPCRKACLSEKFTDGKCSKILRRCICYKPC
+>00990|APD|Pth-St1 (StPTH1, natural AMPs; defensins; UCSS1a; plants; BWQ, unclassified)|potato, Solanum tuberosum
+RNCESLSHRFKGPCTRDSN
+>00989|APD|VrCRP (natural AMPs; defensins;  4S=S; UCSS1a; plants; ZZI)|a bruchid-resistant mungbean, V. radiata
+RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGDCKGMTRTCYCLVNC
+>00992|APD|Snakin-2 (StSN2, natural AMPs; 6S=S,  UCSS1a; plants)|potato, Solanum tuberosum cv Jaerla
+YSYKKIDCGGACAARCRLSSRPRLCNRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP
+>00991|APD|Snakin-1 (StSN1, natural AMPs; snakin; 6S=S; UCSS1a; plants; BBS)|potato, Solanum tuberosum
+GSNFCDSKCKLRCSKAGLADRCLKYCGICCEECKCVPSGTYGNKHECPCYRDKKNSKGKSKCP
+>00993|APD|So-D2 (S. oleracea defensin D2,  natural AMPs; defensins; 4S=S, UCSS1a; plants)|leaf, Spinacia oleracea
+GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC
+>00994|APD|So-D6 (S. oleracea defensin D6, natural AMPs; defensins;  plants; BWQ; unclassified)|Spinacia oleracea
+GIFSNMYARTPAGYFRGPAGYAAN
+>01023|APD|Cycloviolin B (natural AMPs; cyclotides; XXC, 3S=S, UCBB1aB; plants; ZZHp)|Leonia cymosa
+GTACGESCYVLPCFTVGCTCTSSQCFKN
+>01024|APD|Cycloviolin C (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1aB; ZZHp)|Leonia cymosa
+GIPCGESCVFIPCLTTVAGCSCKNKVCYRN
+>01022|APD|Cycloviolin A (cyclotides; natural AMPs; plants; XXC, 3S=S, UCBB1aB; ZZHp)|Leonia cymosa
+GVIPCGESCVFIPCISAAIGCSCKNKVCYRN
+>01026|APD|Varv peptide A (Varv A, kalata S; natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB)|Viola arvensis,Viola odorata, Viola tricolor, Viola baoshanensis, Viola yedoensis, and Viola biflora
+GLPVCGETCVGGTCNTPGCSCSWPVCTRN
+>01025|APD|Cycloviolin D (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1aB; ZZHp)|Leonia cymosa
+GFPCGESCVFIPCISAAIGCSCKNKVCYRN
+>01028|APD|Varv peptide C (Varv C, cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola arvensis
+GVPICGETCVGGTCNTPGCSCSWPVCTRN
+>01027|APD|Varv peptide B (Varv B, cyclotides; plants; XXC; 3S=S, UCBB1aB;  DXWZ)|Viola arvensis
+GLPVCGETCFGGTCNTPGCSCDPWPMCSRN
+>01029|APD|Varv peptide D (Varv D, cyclotides; Leu-rich; plants; XXC; 3S=S, UCBB1aB;  DXWZ)|Viola arvensis
+GLPICGETCVGGSCNTPGCSCSWPVCTRN
+>01033|APD|Varv peptide H (Varv H, cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola arvensis
+GLPVCGETCFGGTCNTPGCSCETWPVCSRN
+>01030|APD|Varv peptide E (Varv E,  Cycloviolacin O12; natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1aB; ZZHp)|Viola arvensis
+GLPICGETCVGGTCNTPGCSCSWPVCTRN
+>01031|APD|Varv peptide F (Varv F, natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB;  plants)|Viola arvensis
+GVPICGETCTLGTCYTAGCSCSWPVCTRN
+>01032|APD|Varv peptide G (Varv G,  cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola arvensis
+GVPVCGETCFGGTCNTPGCSCDPWPVCSRN
+>01034|APD|Palicourein (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZHp)|Palicourea condensata
+GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN
+>01035|APD|Cycloviolacin O1 (natural AMPs; cyclotides;  XXC, 3S=S, UCBB1aB; plants; ZZI)|Viola odorata
+GIPCAESCVYIPCTVTALLGCSCSNRVCYN
+>01037|APD|Cycloviolacin O3 (CyO3; natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB;  ZZP)|Viola odorata
+GIPCGESCVWIPCLTSAIGCSCKSKVCYRN
+>01036|APD|Cycloviolacin O2 (CyO2; natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZP)|Viola odorata
+GIPCGESCVWIPCISSAIGCSCKSKVCYRN
+>01038|APD|Cycloviolacin O4 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola odorata
+GIPCGESCVWIPCISSAIGCSCKNKVCYRN
+>01039|APD|Cycloviolacin O5 (cyclotides; plants; XXC; 3S=S, UCBB1aB;  DXWZ)|Viola odorata
+GTPCGESCVWIPCISSAVGCSCKNKVCYKN
+>01040|APD|Cycloviolacin O6 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola odorata
+GTLPCGESCVWIPCISAVGCSCKSKVCYKN
+>01041|APD|Cycloviolacin O7 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola odorata
+SIPCGESCVWIPCTITALAGCKCKSKVCYN
+>01042|APD|Cycloviolacin O8 (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZP)|Viola odorata
+GTLPCESCVWIPCISSVVGCSCKSKVCYKN
+>01043|APD|Cycloviolacin O9 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola odorata
+GIPCGESCVWIPCLTSAVGCSCKSKVCYRN
+>01046|APD|Cycloviolacin H1 (cyclotides; plants; XXC; 3S=S, UCBB1aB;  DXWZ)|Viola hederaceae
+GIPCGESCVYIPCLTSAIGCSCKSKVCYRN
+>01044|APD|Cycloviolacin O10 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola odorata
+GIPCGESCVYIPCLTSAVGCSCKSKVCYRN
+>01045|APD|Cycloviolacin O11 (cyclotides; plants; XXC; 3S=S, UCBB1aB;  DXWZ)|Viola odorata
+GTLPCGESCVWIPCISAVVGCSCKSKVCYKN
+>01047|APD|Kalata B5 (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZP)|flowers, Viola betonicifolia
+TPCGESCVYIPCISGVIGCSCTDKVCYLN
+>01048|APD|DP7 (synthetic, UCLL1)|Engineered
+VQWRIRVAVIRK
+>01049|APD|Kalata B2 (KB2; natural AMPs; cyclotides; plants; XXC;  3S=S, UCBB1aB; ZZI; ZZP; Derivatives: oxidized kalata B2 nfk or kyn; XXO)|Viola betonicifolia
+GLPVCGETCFGGTCNTPGCSCTWPICTRD
+>01051|APD|Kalata B4 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola betonicifolia
+GLPTCGETCFGGTCNTPGCTCDPWPICTRD
+>01050|APD|Kalata B3 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola betonicifolia
+GLPTCGETCFGGTCNTPGCTCDPWPICTRD
+>01052|APD|Pn-AMP2 (PnAMP2, natural AMPs; hevein-like, UCSS1a; 4S=S, chitin-binding,  plants; BBS)|Japanese morning glory, Pharbitis nil
+QQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR
+>01055|APD|Cycloviolacin H4 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1aB; )|Austalian native violet Viola hederaceae
+GIPCAESCVWIPCTVTALLGCSCSNNVCYN
+>01056|APD|Cycloviolacin H2 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola hederaceae
+SAIACGESCVYIPCFIPGCSCRNRVCYLN
+>01054|APD|Kalata B7 (kB7, natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZP; BBM)|Oldenlandia affinis
+GLPVCGETCTLGTCYTQGCTCSWPICKRN
+>01057|APD|Cycloviolacin H3 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola hederaceae
+GLPVCGETCFGGTCNTPGCICDPWPVCTRN
+>01053|APD|Kalata B6 (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1aB; ZZP;  BBMm)|African plant, Oldenlandia affinis
+GLPVCGETCFGGTCNTPGCSCSSWPICTRN
+>01060|APD|Circulin C (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|tropical tree Chassalia parvifolia
+GIPCGESCVFIPCITSVAGCSCKSKVCYRN
+>01058|APD|Vhl-1 (XXO, natural AMPs; cyclotides, macrocyclic knotted proteins; plants; XXC, 3S=S, UCBB1aB; ZZHp)|Viola hederaceae
+SISCGESCAMISFCFTEVIGCSCKNKVCYLN
+>01059|APD|Vhl-2 (cyclotides; plants; XXC; 3S=S, UCBB1aB; DXWZ)|Viola hederaceae
+GLPVCGETCFTGTCYTNGCTCDPWPVCTRN
+>01061|APD|Circulin D (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|tropical tree Chassalia parvifolia
+KIPCGESCVWIPCVTSIFNCKCKENKVCYHD
+>01062|APD|Circulin E (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|tropical tree Chassalia parvifolia
+KIPCGESCVWIPCLTSVFNCKCENKVCYHD
+>01066|APD|Cycloviolacin O24 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab;  ZZHp)|Viola odorata
+GLPTCGETCFGGTCNTPGCTCDPWPVCTHN
+>01064|APD|Cycloviolacin O13 (natural AMPs; CyO13; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp, ZZP)|Viola odorata
+GIPCGESCVWIPCISAAIGCSCKSKVCYRN
+>01065|APD|Cycloviolacin O14 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab;  ZZHp, ZZP)|Viola odorata
+GSIPACGESCFKGKCYTPGCSCSKYPLCAKN
+>01063|APD|Circulin F (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHps)|tropical tree Chassalia parvifolia
+KVCYRAIPCGESCVWIPCISAAIGCSCKN
+>01067|APD|Cycloviolacin O15 (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1ab; ZZP)|Viola odorata
+GLVPCGETCFTGKCYTPGCSCSYPICKKN
+>01068|APD|Cycloviolacin O16 (natural AMPs; cyclotides; plants; XXC; 3S=S, UCBB1ab; ZZP)|Viola odorata
+GLPCGETTCFTGKCYTPGCSCSYPICKKIN
+>01069|APD|Cycloviolacin O17 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GIPCGESCVWIPGISAAIGCSCKNKVCYRN
+>01070|APD|Cycloviolacin O18 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GIPCGESCVYIIPCTVTALAQCKCKSKVCYN
+>01072|APD|Cycloviolacin O20 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GIPCGESCVWIPCLTSAIGCSCKSKVCYKD
+>01071|APD|Cycloviolacin O19 (cyO19, cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GTLPCGESCVWIPCISSVVGCSCKSKVCYKD
+>01073|APD|Cycloviolacin O21 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GLPVCGETCVTGSCYTPGCTCSWPVCTRN
+>01074|APD|Cycloviolacin O22 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GLPICGETCVGGTCNTPGCTCSWPVCTRN
+>01075|APD|Cycloviolacin O23 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+GLPTCGETCFGGTCNTPGCTCDSSWPICTHN
+>01077|APD|Cycloviolacin Y1 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|Chinese herb Viola yedoensis  and Viola odorata
+GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN
+>01078|APD|Cycloviolacin Y2 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Chinese herb Viola yedoensis
+GGTIFDCGESCFLGTCYTAGCSCGNWGLCYGTN
+>01076|APD|Cycloviolacin O25 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola odorata
+DIFCGETCAFIPCITHVPGTCSCKSKVCYFN
+>01079|APD|Cycloviolacin Y3 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Chinese herb Viola yedoensis
+GGTIFDCGETCFLGTCYTAGCSCGNWGLCYGTN
+>01080|APD|Cycloviolacin Y4 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|Chinese herb Viola yedoensis
+GVPCGESCVFIPCITGVIGCSCSSNVCYLN
+>01081|APD|Cycloviolacin Y5 (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab;  ZZHp)|Chinese herb Viola yedoensis
+GIPCAESCVWIPCTVTALVGCSCSDKVCYN
+>01083|APD|Hyfl B (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+GSPIQCAETCFIGKCYTEELGCTCTAFLCMKN
+>01082|APD|Hyfl A (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+SISCGESCVYIPCTVTALVGCTCKDKVCYLN
+>01088|APD|Hyfl G (plant cyclotides; plants; XXC, BWQ; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+CAETCVVLPCFIVPGCSCKSSVCYFN
+>01084|APD|Hyfl C (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+GSPRQCAETCFIGKCYTEELGCTCTAFLCMKN
+>01085|APD|Hyfl D (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+GSVPCGESCVYIPCFTGIAGCSCKSKVCYYN
+>01086|APD|Hyfl E (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+GEIPCGESCVYLPCFLPNCYCRNHVCYLN
+>01087|APD|Hyfl F (plant cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus E
+SISCGETCTTFNCWIPNCKCNHHDKVCYWN
+>01089|APD|Hyfl H (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus floribundus E
+CAETCIYIPCFTEAVGCKCKDKVCYKN
+>01090|APD|Hyfl I (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+GIPCGESCVFIPCISGVIGCSCKSKVCYRN
+>01091|APD|Hyfl J (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+GIACGESCAYFGCWIPGCSCRNKVCYFN
+>01092|APD|Hyfl K (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+GTPCGESCVYIPCFTAVVGCTCKDKVCYLN
+>01093|APD|Hyfl L (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+GTPCAESCVYLPCFTGVIGCTCKDKVCYLN
+>01094|APD|Hyfl M (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+GNIPCGESCIFFPCFNPGCSCKDNLCYYN
+>01096|APD|Hyfl O (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus floribundus W
+CGETCVIFPCISAAFGCSCKDTVCYKN
+>01095|APD|Hyfl N (cyclotides; plants; XXC, BWQ; 3S=S, UCBB1ab; DXWZ)|Australian Hybanthus floribundus W
+CGETCVILPCISAALGCSCKDTVCYKN
+>01097|APD|Hyfl P (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus floribundus W
+CVWIPCISGIAGCSCKNKVCYLN
+>01098|APD|Hymo A (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus monopetalus
+CGETCLFIPCIFSVVGCSCSSKVCYRN
+>01099|APD|Hymo B (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus  monopetalus
+CGETCVTGTCYTPGCACDWPVCKRD
+>01101|APD|Hyve A (cyclotides; plants; XXC, 3S=S, UCBB1ab;  BWQ; DXWZ)|Australian Hybanthus vernonii
+RGCYKICGETCLFIPCLTSVFGCSCKN
+>01100|APD|Hyst A (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthusstellarioides
+CGETCIWGRCYSENIGCHCGFGICTLN
+>01102|APD|Hyca A (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus calycinus
+CGETCVVDTRCYTKKCSCAWPVCMRN
+>01103|APD|Hyde A (cyclotides; plants; XXC, ?3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus debilissimus
+CVWIPCISAAIGCSCKSKVCYRN
+>01104|APD|Hyen A (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus enneaspermus
+CGESCVYIPCTVTALLGCSCKDKVCYKN
+>01105|APD|Hyen B (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus enneaspermus
+CGETCKVTKRCSGQGCSCLKGRSCYD
+>01106|APD|Hyep A (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus epacroides
+CGETCVVLPCFIVPGCSCKSSVCYFN
+>01109|APD|kalata B10 (kB10, cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ; Variants: kalata B10 linear, uncyclo-tides; kalata B10 oia, XXO)|African plant Oldenlandia affinis DC (Rubiaceae)
+GLPTCGETCFGGTCNTPGCSCSSWPICTRD
+>01108|APD|kalata B9 (kB9, natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; DXWZ. Variant: kalata B9 linear, uncyclo-tides)|African plant,  Oldenlandia affinis DC (Rubiaceae)
+GSVFNCGETCVLGTCYTPGCTCNTYRVCTKD
+>01110|APD|kalata B11 (kB11, cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GLPVCGETCFGGTCNTPGCSCTDPICTRD
+>01111|APD|kalata B12 (kB12, cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GSLCGDTCFVLGCNDSSCSCNYPICVKD
+>01107|APD|Hyep B (cyclotides; plants; XXC, 3S=S, UCBB1ab; BWQ; DXWZ)|Australian Hybanthus epacroides
+CGETCIYIPCFTEAVGCKCKDKVCYKN
+>01113|APD|kalata B14 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GLPVCGESCFGGTCNTPGCACDPWPVCTRD
+>01114|APD|kalata B15 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GLPVCGESCFGGSCYTPGCSCTWPICTRD
+>01112|APD|kalata B13 (kB13; cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GLPVCGETCFGGTCNTPGCACDPWPVCTRD
+>01115|APD|kalata B16 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GIPCAESCVYIPCTITALLGCKCQDKVCYD
+>01116|APD|kalata B17 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|African plant Oldenlandia affinis DC (Rubiaceae)
+GIPCAESCVYIPCTITALLGCKCKDQVCYN
+>01117|APD|Vibi A (plant cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GLPVCGETCFGGTCNTPGCSCSYPICTRN
+>01118|APD|Vibi B (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GLPVCGETCFGGTCNTPGCTCSYPICTRN
+>01119|APD|Vibi C (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GLPVCGETCAFGSCYTPGCSCSWPVCTRN
+>01120|APD|Vibi D (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GLPVCGETCFGGRCNTPGCTCSYPICTRN
+>01121|APD|Vibi E (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|alpine violet Viola biflora
+GIPCAESCVWIPCTVTALIGCGCSNKVCYN
+>01123|APD|Vibi G (natural AMPs; cyclotides; plants;3S=S, UCBB1ab;  XXC)|alpine violet Viola biflora
+GTFPCGESCVFIPCLTSAIGCSCKSKVCYKN
+>01122|APD|Vibi F (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GTIPCGESCVFIPCLTSALGCSCKSKVCYKN
+>01124|APD|Vibi H (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|alpine violet Viola biflora
+GLLPCAESCVYIPCLTTVIGCSCKSKVCYKN
+>01125|APD|Vibi I (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GIPCGESCVWIPCLTSTVGCSCKSKVCYRN
+>01126|APD|Vibi J (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GTFPCGESCVWIPCISKVIGCACKSKVCYKN
+>01133|APD|PL-101 (analog of plicatamide, Synthetic, UCLL1; XXA; Derivative: PL-102)|Designed
+FFHLHFHY
+>01132|APD|GKY25 (synthetic, UCLL1; BBL)|in human wound fluid and fibrin
+GKYGFYTHVFRLKKWIQKVIDQFGE
+>01127|APD|Vibi K (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|alpine violet Viola biflora
+GIPCGESCVWIPCLTSAVGCPCKSKVCYRN
+>01135|APD|Violacin A (natural AMPs; uncyclo-tides, UCSS1a; 3S=S, plants)|Viola odorata (Violaceae)
+SAISCGETCFKFKCYTPRCSCSYPVCK
+>01136|APD|Tricyclon A (natural AMPs; cyclotides; plants; XXC, 3S=S, UCBB1ab; ZZHp)|Australian flowers, Viola tricolor
+GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGTN
+>01139|APD|Vico A (cyclotides; plants; XXC;  3S=S, UCBB1ab; DXWZ)|Viola cotyledon
+GSIPCAESCVYIPCFTGIAGCSCKNKVCYYN
+>01140|APD|Vico B (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola cotyledon
+GSIPCAESCVYIPCITGIAGCSCKNKVCYYN
+>01143|APD|Vhr1 (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola hederacea
+GIPCAESCVWIPCTVTALLGCSCSNKVCYN
+>01144|APD|Vitri A (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Viola tricolor
+GIPCGESCVWIPCITSAIGCSCKSKVCYRN
+>01145|APD|Tricyclon B (cyclotides; plants; XXC; 3S=S, UCBB1ab; DXWZ)|Australian flowers, Viola tricolor
+GGTIFDCGESCFLGTCYTKGCSCGEWKLCYGEN
+>01134|APD|PL-135 (specifically targeted antimicrobial peptides, analog of plicatamide, synthetic, UCLL1)|sequence shuffling
+FHFHLHF
+>01149|APD|violapeptide 1 (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|nan
+GLPVCGETCVGGTCNTPGCSCSRPVCTAN
+>01160|APD|Brazzein (natural AMPs; defensins; UCSS1a; 4S=S, plants)|pulp, fruits, Pentadiplandra brazzeana Baillon
+QDKCKKVYENYPVSKCQLANQCNYDCKLDKHARSGECFYDEKRNLQCICDYCEY
+>01162|APD|EAFP2 (Eucommia antifungal peptide 2, XXQ, natural AMPs; chitin-binding; BBS, 5S=S; UCSS1a; plants)|Eucommia ulmoides Oliver
+QTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQCRG
+>01164|APD|EAFP1 (Eucommia antifungal peptide 1, natural AMPs;  UCSS1a; 5S=S, XXQ, BBS, plants)|Eucommia ulmoides Oliver
+QTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQCRG
+>01243|APD|Cy-AMP1 (CyAMP1, natural AMPs; chitin-binding; plants; 4S=S; UCSS1a;  BBS)|the cycad seeds, Cycas revoluta
+KGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG
+>01244|APD|Cy-AMP2 (CyAMP2, natural AMPs;  plants; 4S=S; UCSS1a;)|the cycad seeds, Cycas revoluta
+KGGPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG
+>01277|APD|Viscotoxin A3 (VtA3, thionins; natural AMPs; UCSS1a; plants, BBMm; 3S=S)|the European mistletoe, Viscum album L
+KSCCPNTTGRNIYNACRLTGAPRPTCAKLSGCKIISGSTCPSDYPK
+>01245|APD|Cy-AMP3 (CyAMP3, natural AMPs; plants; 4S=S; UCSS1a)|the cycad seeds, Cycas revoluta
+AVTCNTVVSSLAPCVPFFAGSAAQPTAACCNGVRSLNSAARTTPDRRTACNCIKSSASSIGLNYNKAAKLPSRCTVNVTVPISPSVNCAT
+>01278|APD|Viscotoxin 1-Ps (Vt1-Ps, thionins; natural AMPs; UCSS1a; 3S=S, plants)|the European mistletoe, Viscum album L
+KSCCPNTTGRNIYNTCRFGGGSREVCARISGCKIISASTCPSDYPK
+>01279|APD|Viscotoxin A1 (VtA1,  thionins; natural AMPs;  UCSS1a; 3S=S, plants)|seeds, Viscum album L
+KSCCPNTTGRNIYNTCRLTGSSRETCAKLSGCKIISASTCPSNYPK
+>01280|APD|Viscotoxin C (Viscotoxin C1, VtC1,  thionins; natural AMPs;  UCSS1a; 3S=S, plants)|the Asiatic Viscum album ssp Coloratum ohwi
+KSCCPNTTGRNIYNTCRFAGGSRERCAKLSGCKIISASTCPSDYPK
+>01281|APD|Viscotoxin A2 (VtA2,  thionins; natural AMPs;  UCSS1a; 3S=S, plants)|Viscum album L
+KSCCPNTTGRNIYNTCRFGGGSRQVCASLSGCKIISASTCPSDYPK
+>01282|APD|Viscotoxin B (VtB,  thionins; natural AMPs;  UCSS1a; 3S=S, plants)|Viscum album L
+KSCCPNTTGRNIYNTCRLGGGSRERCASLSGCKIISASTCPSDYPK
+>01330|APD|Vv-AMP1 (Vitis vinifera antimicrobial peptide 1, natural AMPs;  4S=S, defensin; UCSS1a; plants)|berry, Vitis vinifera
+RTCESQSHRFKGTCVRQSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC
+>01284|APD|Viscotoxin B2 (VtB2,  thionins; natural AMPs;  UCSS1a; 3S=S, plants)|Viscum coloratum (Kom.) Nakai
+KSCCKNTTGRNIYNTCRFAGGSRERCAKLSGCKIISASTCPSDYPK
+>01344|APD|Cn-AMP3 (XXA; C. nucifera antimicrobial peptide 3, natural AMPs; plants)|green coconut water, Cocos nucife
+TCSYTMEA
+>01343|APD|Cn-AMP2 (XXA; C. nucifera antimicrobial peptide 2, natural AMPs;  plants)|green coconut water, Cocos nucife
+TESYFVFSVGM
+>01342|APD|Cn-AMP1 (CnAMP1, XXA; C. nucifera antimicrobial peptide 1, natural AMPs;  plants)|green coconut water, Cocos nucifera
+SVAGRAQGM
+>01355|APD|Pg-AMP1  (natural AMPs; Gly-rich; plants)|Psidium guajava
+RESPSSRMECYEQAERYGYGGYGGGRYGGGYGSGRGQPVGQGVERSHDDNRNQPR
+>01356|APD|Cp-thionin II (natural AMPs; UCSS1a; 4S=S, plants, BBMm; Derivative: KT43C)|cowpea seeds, Vigna unguiculata
+KTCMTKKEGWGRCLIDTTCAHSCRKYGYMGGKCQGITRRCYCLLNC
+>01469|APD|WAMP-1a (hevein-like peptide, natural AMPs; UCSS1a; plants;chitin-binding, BBS; 5S=S; UCSS1a)|wheat, Triticum kiharae
+AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC
+>01470|APD|WAMP-1b (hevein-like peptide, natural AMPs; UCSS1a; plants;chitin-binding, BBS; 5S=S)|wheat, Triticum kiharae
+AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR
+>01508|APD|Ha-DEF1 (H. annuus defensin 1, natural AMPs; plants; BBMm; 4S=S; UCSS1a)|root, sunflower, Helianthus annuus
+ELCEKASQTWSGTCGKTKHCDDQCKSWEGAAHGACHVRDGKHMCFCYFNC
+>01528|APD|SIalpha1 (defensins; natural AMPs; plants; 4S=S; UCSS1a)|seeds, Sorghum bicolor
+RVCMKGSQHHSFPCISDRLCSNECVKEEGGWTAGYCHLRYCRCQKAC
+>01585|APD|Pp-AMP1 (P. pubescens AMP1; natural AMPs; 2S=S, UCSS1a;  plant defensin, plants)|Japanese bamboo shoots, Phyllostachys pubescens
+KSCCRSTQARNIYNAPRFAGGSRPLCALGSGCKIVDDKKTPPND
+>01553|APD|PsDef1 (P. sylvestris defensin 1, natural AMPs; UCSS1a; 4S=S,  plants)|Seeds, Scots pine, Pinus sylvestris
+RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP
+>01586|APD|Pp-AMP2 (P. pubescens AMP2; natural AMPs; 3S=S, UCSS1a;  plant defensin, plants)|Japanese bamboo shoots, Phyllostachys pubescens
+KSCCRSTTARNIYNGCRVPGTARPVCAKKSGCKIQEAKKCEPPYD
+>01584|APD|Ac-AMP1 (A. caudatus antimicrobial peptide 1, natural AMPs; UCSS1a; 3S=S, chitin-binding, plants; BBS)|Seeds, Amaranthus caudatus
+VGECVRGRCPSGMCCSQFGYCGKGPKYCG
+>01588|APD|Fa-AMP2 (Fagopyrum antimicrobial peptide 2; natural AMPs; 4S=S, hevein-type, UCSS1a; plant defensin, plants)|seeds, buckwheat, Fagopyrum esculentum Moench
+AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCR
+>01587|APD|Fa-AMP1 (Fagopyrum antimicrobial peptide 1; natural AMPs; 4S=S, hevein-type, UCSS1a;  plant defensin, plants)|seeds, buckwheat, Fagopyrum esculentum Moench
+AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCK
+>01677|APD|PvD1 (P. vulgaris defensin 1, natural AMPs; plants; BBMm; BWQ? unclassified)|seeds, Phaseolus vulgaris (cv. Pérola)
+KTCENLADTYKGPCFTTGSCD
+>01678|APD|Cc-LTP1 (Coffea canephora lipid transfer protein 1, natural AMPs; plants; BWQ, unclassified)|coffee seeds, Coffea canephora
+ITCQQVTSELGPCVPYLTGQGIP
+>01683|APD|SD2 (natural AMPs; defensins; UCSS1a;  plants; 4S=S)|flowers, common sunflower, Helianthus annuus
+NEMGGPLVVEARTCESQSHKFKGTCLSDTNCANVCHSERFSGGKCRGFRRRCFCTTHC
+>01685|APD|Rs-AFP4 (RsAFP4; R. sativus-antifungal protein 4, natural AMPs; defensins, XXQ, UCSS1a; 4S=S, plants)|radish, Raphanus sativus
+QKLCERSSGTWSGVCGNNNACKNQCINLEGARHGSCNYIFPYHRCICY
+>01687|APD|Br-AFP1 (natural AMPs; defensins; plants; XXQ, UCSS1a;  4S=S)|Brassica rapa subsp. chinensis
+QKLCERPSGTWSGVCGNNNACKNQCINLEGARHGSCNYVFPYHRCICYFPC
+>01684|APD|Rs-AFP3 (RsAFP3; R. sativus-antifungal protein 3, natural AMPs;  defensins, XXQ, UCSS1a;  plants; 4S=S)|radish, Raphanus sativus
+KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC
+>01688|APD|Br-AFP2 (natural AMPs; defensins; plants; XXQ, UCSS1a; 4S=S)|Brassica rapa subsp. chinensis; Brassica napus
+QKLCERPSGTWSGVCGNNNACKNQCIR
+>01689|APD|Sa-AFP1 (S alba antifungal peptide 1; natural AMPs; defensins; XXQ, UCSS1a;  plants; 4S=S)|S alba
+QKLCERPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+>01693|APD|Ns-D1 (N. sativa defensin 1, natural AMPs; defensins, UCSS1a; 4S=S, plants)|seeds, Nigella sativa L.
+KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKPPAHRCICYYEC
+>01690|APD|Sa-AFP2 (S alba antifungal peptide 2; natural AMPs; defensins; XXQ, UCSS1a; plants; 4S=S)|S alba
+QKLCQRPSGTWSGVCGNNNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+>01691|APD|Bn-AFP1 (B. napus antifungal peptide 1; natural AMPs; defensins; BWQ, XXQ, UCSS1a; plants)|Brassica napus
+QKLCERPSGTWSGVCGNNNACKNQCINLEK
+>01692|APD|At-AFP1 (A thaliana antifungal peptide 1; natural AMPs; defensins; XXQ, UCSS1a; plants; 4S=S)|A thaliana
+KLCERPSGTWSGVCGNSNACKNQCINLEKARHGSCNYVFPAHKCICYFPC
+>01686|APD|PsD2 (P. sativum defensin 2; natural AMPs; defensins; UCSS1a; plants; 4S=S)|pea seeds, Pisum sativum
+KTCENLSGTFKGPCIPDGNCNKHCRNNEHLLSGRCRDDFRCWCTNRC
+>01714|APD|JCpep7 (natural AMPs; plants)|Jatropha curcas
+KVFLGLK
+>01694|APD|Ns-D2 (N. sativa defensin 1, natural AMPs; defensins, UCSS1a; 4S=S, plants)|seeds, Nigella sativa L.
+KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKLPAHRCICYYEC
+>01760|APD|EcAMP1 (E. crus-galli AMP 1; natural AMPs; hairpin-like peptides; 2S=S; plants)|seeds, Echinochloa crus-galli
+GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD
+>01769|APD|Piceain 1 (natural AMPs; plants; UCSS1a; 1S=S)|Picea sitchensis
+KSLRPRCWIKIKFRCKSLKF
+>01770|APD|Piceain 2 (natural AMPs; plants; 1S=S)|Picea sitchensis
+RPRCWIKIKFRCKSLKF
+>01772|APD|Sm-AMP-D1 (natural AMPs; S. media defensin 1; plants; 4S=S; UCSS1a)|seeds, common chickweed, Stellaria media L
+KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFDC
+>01773|APD|Sm-AMP-D2 (natural AMPs; S. media defensin 2; plants; 4S=S; UCSS1a)|seeds, common chickweed, Stellaria media L
+KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFNC
+>01777|APD|Cliotide T4 (cT4; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GIPCGESCVFIPCITAAIGCSCKSKVCYRN
+>01774|APD|Cliotide T1 (cT1; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants; Other possible AMPs? Cliotide T5,  Cliotide T6,  Cliotide T8,  Cliotide T9,  Cliotide T11)|Clitoria ternatea
+GIPCGESCVFIPCITGAIGCSCKSKVCYRN
+>01775|APD|Cliotide T2 (cT2; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants; Others: cT5,  cT6,  cT7,  cT8,  cT9,  cT10,  cT11,  cT12)|Clitoria ternatea
+GEFLKCGESCVQGECYTPGCSCDWPICKKN
+>01776|APD|Cliotide T3 (cT3; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GLPTCGETCTLGTCYVPDCSCSWPICMKN
+>01785|APD|Vaby D (natural AMPs; cyclotides; plants; 3S=S; XXC, UCBB1ab;)|Africa, the Ethiopian highlands, Viola abyssinica
+GLPVCGETCFGGTCNTPGCTCDPWPVCTRN
+>01803|APD|Tn-AFP (Trapa natans antifungal peptide, natural AMPs; plants)|fruits, Trapa natans
+LMCTHPLDCSN
+>01805|APD|Cr-ACP1 (C. revoluta anticancer peptide 1, natural AMPs; plants)|seeds, Cycas revoluta
+AWKLFDDGV
+>01806|APD|Viba 15 (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GLPVCGETCVGGTCNTPGCACSWPVCTRN
+>01784|APD|Vaby A (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC; other AMPs?: Vaby B; VabyC; and VabyE)|Africa, the Ethiopian highlands, Viola abyssinica
+GLPVCGETCAGGTCNTPGCSCSWPICTRN
+>01808|APD|Viphi A (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GSIPCGESCVFIPCISSVIGCACKSKVCYKN
+>01807|APD|Viba17  (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GLPVCGETCVGGTCNTPGCGCSWPVCTRN
+>01809|APD|Viphi D (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GIPCGESCVFIPCISSVIGCSCSSKVCYRN
+>01810|APD|Viphi E (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GSIPCGESCVFIPCISAVIGCSCSNKVCYKN
+>01811|APD|Viphi F (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GSIPCGESCVFIPCISAIIGCSCSSKVCYKN
+>01812|APD|Viphi G (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GSIPCEGSCVFIPCISAIIGCSCSNKVCYKN
+>01813|APD|Mram 8 (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Viola philippica
+GIPCGESCVFIPCLTSAIDCSCKSKVCYRN
+>01816|APD|Ac-AFP1 (H. coronopifolia antifungal peptide 1; natural AMPs; UCSS1a; plants; 4S=S)|Heliophila coronopifolia, South Africa
+RYCERSSGTWSGVCGNSGKCSNQCQRLEGAAHGSCNYVFPAHKCICYYPC
+>01817|APD|Ac-AFP2 (H. coronopifolia antifungal peptide 1; natural AMPs; UCSS1a; plants; 4S=S)|Heliophila coronopifolia, South Africa
+QKLCERPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC
+>01818|APD|Ac-AFP3 (H. coronopifolia antifungal peptide 1; natural AMPs; UCSS1a; 4S=S, plants)|Heliophila coronopifolia, South Africa
+RYCERSSGTWSGVCGNTDKCSSQCQRLEGAAHGSCNYVFPAHKCICYYPC
+>01819|APD|Ac-AFP4 (H. coronopifolia antifungal peptide 1; natural AMPs; UCSS1a; 4S=S, plants)|Heliophila coronopifolia, South Africa
+QKLCERPSGTWSGVCGNNGACRNQCIRLERARHGSCNYVFPAHKCICYFPC
+>01915|APD|Parigidin-br1 (natural AMPs; XXC; 3S=S, UCBB1ab; cyclotides; plants; ZZI)|Palicourea rigida (Rubiaceae)
+GGSVPCGESCVFIPCITSLAGCSCKNKVCYYD
+>01916|APD|Hedyotide B1 (natural AMPs; XXC; 3S=S, UCBB1ab; cyclotides; plants; inactive: hedyotide B2)|Hedyotis biflora
+GTRCGETCFVLPCWSAKFGCYCQKGFCYRN
+>01979|APD|ToAMP1 (natural AMPs; UCSS1a; 3S=S, plants)|dandelion Taraxacum officinale Wigg. flowers
+VAKCTEESGGKYFVFCCYKPTRICYMNEQKCESTCIGK
+>01981|APD|ToAMP2 (natural AMPs; UCSS1a; 3S=S, plants)|dandelion Taraxacum officinale Wigg. flowers
+GGKCTVDWGGQGGGRRLPSPLFCCYKPTRICYLNQETCETETCP
+>01982|APD|ToAMP3 (natural AMPs; UCSS1a; 4S=S, plants)|dandelion Taraxacum officinale Wigg. flowers
+ANKCIIDCMKVKTTCGDECKGAGFKTGGCALPPDIMKCCHNC
+>01983|APD|Psyle A (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC. Other AMPs? psyle B, D, F )|Psychotria leptothyrsa
+GIACGESCVFLGCFIPGCSCKSKVCYFN
+>01985|APD|Psyle C (natural AMPs; uncyclo-tides; UCSS1a; 3S=S, plants)|Psychotria leptothyrsa
+KLCGETCFKFKCYTPGCSCSYPFCK
+>01984|APD|Psyle E (natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Psychotria leptothyrsa
+GVIPCGESCVFIPCISSVLGCSCKNKVCYRD
+>01986|APD|ChaC1 (chassatide C1, natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; More AMPs? chaC3, chaC5, chaC6, chaC9, chaC12-18)|hybrid peptide of melittin and protamine.
+GDACGETCFTGICFTAGCSCNPWPTCTRN
+>01987|APD|ChaC2 (chassatide C2, natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC; Variants: chaC2A, XXO)|Chassalia chartacea (or Chassalia curviflora)
+GIPCAESCVWIPPCTITALMGCSCKNNVCYNN
+>01988|APD|ChaC4 (chassatide C4, natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Chassalia chartacea (or Chassalia curviflora)
+GASCGETCFTGICFTAGCSCNPWPTCTRN
+>01989|APD|ChaC7 (chassatide C7, natural AMPs; uncyclo-tides; UCSS1a; 3S=S, plants)|Chassalia chartacea (or Chassalia curviflora)
+IPCGESCVWIPCITAIAGCSCKNKVCYT
+>01990|APD|ChaC8 (chassatide C8, natural AMPs; uncyclo-tides; UCSS1a; 3S=S, plants)|Chassalia chartacea (or Chassalia curviflora)
+AIPCGESCVWIPCISTVIGCSCSNKVCYR
+>01991|APD|ChaC10 (chassatide C10, natural AMPs; cyclotides; plants; 3S=S, UCBB1ab; XXC)|Chassalia chartacea (or Chassalia curviflora)
+GEYCGESCYLIPCFTPGCYCVSRQCVNKN
+>02023|APD|Sd1 (sugarcane defensin 1; natural AMPs; defensins; UCSS1a; 4S=S, plants. More AMPs? Sd2, Sd4, Sd6)|Sugarcane, Saccharum officinarum
+RYCLSQSHRFKGLCMSSSNCANVCQTENFPGGECKADGATRKCFCKKIC
+>01992|APD|ChaC11 (chassatide C11, natural AMPs; uncyclo-tides; UCSS1a; 3S=S, plants. Variants: chaC11A, XXO)|Chassalia chartacea (or Chassalia curviflora)
+IPCGESCVWIPCISGMFGCSCKDKVCYS
+>02018|APD|Sd5 (sugarcane defensin 5; natural AMPs; defensins; UCSS1a; 4S=S, plants)|Sugarcane, Saccharum officinarum
+HTPTPTPICKSRSHEYKGRCIQDMDCNAACVKESESYTGGFCNGRPPFKQCFCTKPCKRERAAATLRWPGL
+>02024|APD|Sd3 (sugarcane defensin 3; natural AMPs; defensins; UCSS1a; 4S=S, plants)|Sugarcane, Saccharum officinarum
+RHRHCFSQSHKFVGACLRESNCENVCKTEGFPSGECKWHGIVSKCHCKRIC
+>02033|APD|LTP110 (lipid transfer protein, natural AMPs; plants; 4S=S; UCSS1a)|rice leaves, Oryza sativa Indica Group
+VSCGDVTSSIAPCLSYVMGRESSPSSSCCSGVRTLNGKASSSADRRTACSCLKNMASSFRNLNMGNAASIPSKCGVSVAFPISTSVDCSKIN
+>02036|APD|MiAMP2c (natural AMPs; plants; UCSS1a)|cotton seeds, Macadamia integrifolia
+RQRDPQQQYEQCQKHCQRRETEPRHMQTCQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEEDN
+>02034|APD|Coconut antifungal peptide (natural AMPs; plants; BWQ, unclassified)|Cocos nucifera
+EQCREEEDDR
+>02035|APD|MiAMP2b (Macadamia integrifolia antimicrobial peptide 2b, natural AMPs;  plants; UCSS1a; Inactive: MiAMP2a)|cotton seeds, Macadamia integrifolia
+DPQTECQQCQRRCRQQESGPRQQQYCQRRCKEICEEEEEYN
+>02037|APD|MiAMP2d (natural AMPs; plants; UCSS1a)|cotton seeds, Macadamia integrifolia
+KRDPQQREYEDCRRRCEQQEPRQQHQCQLRCREQQRQHGRGGDMMNPQRGGSGRYEEGEEEQS
+>02042|APD|EcAMP2 (E. crus-galli AMP 2; natural AMPs; hairpin-like, 2S=S; plants; UCSS1; Derivatives: EcAMP2.1)|seeds, Echinochloa crusgalli L.
+DRCSQQCQHHRDPDRKQQCMRECRRHQGRSD
+>02051|APD|EcLTP (E. crus-galli lipid transfer protein; natural AMPs;  plants; BWQ, unclassified)|seeds, Echinochloa crusgalli L.
+AISCGQVSSAIGPCLSYARGQGSAPSAGCC
+>02041|APD|Beta-purothionin (beta-PTH; natural AMPs; UCSS1a; plants; 4S=S)|wheat, Triticum aestivum
+KSCCKSTLGRNCYNLCRARGAQKLCANVCRCKLTSGLSCPKDFPK
+>02040|APD|Alpha-purothionin (alpha1-PTH; natural AMPs; UCSS1a; plants; 4S=S)|wheat, Triticum aestivum
+KSCCRSTLGRNCYNLCRARGAQKLCAGVCRCKISSGLSCPKGFPK
+>02065|APD|Datucin (natural AMPs; glycopeptide; plants; XXGn;  XXK)|Datura stramonium, India, Asia
+TFPKCAPTRPPGPKPCDINNFKSKFWHIWRA
+>02066|APD|Pm-AMP1 (P. monticola AMP1, natural AMPs; UCSS1a; 3S=S, pines, plants)|western white pine (WWP), Pinus monitcola
+SYFSAWAGPGCNNHNARYSKCGCSNIGHNVHGGYEFVYQGQTAAAYNTDNCKGVAQTRFSSSVNQACSNFGWKSVFIQC
+>02173|APD|Panitide L2 (natural AMPs; XXQ, UCSS1a; 3S=S, plants; Others Panitide L1, Panitide L3; Panitide L4, Panitide L5, Panitide L6, Panitide L7, Panitide L8, Panitide L9, probably inactive MIC>20 uM)|Panicum laxum
+QLPICGETCVLGGCYTPNCRCQYPICVR
+>02183|APD|Cc-GRP (natural AMPs; plants; BWQ; unclassified)|seeds, Coffea canephora
+GNEGGGHGGHGGYGGYHHHGGGGGGYGGYHGGGGS
+>02236|APD|ToAMP4 (natural AMPs; UCSS1a; plants; 3S=S)|flowers, Taraxacum officinale
+GYGDGCYSEDDLSVCCKKKFKVIGKCFKSVRECQNSGCKYH
+>02244|APD|PaSn (UCSS1a; P. americana snakin; natural AMPs; plants; 6S=S)|avocado seed, Persea americana var. drymifolia
+FQSHSLPTPADERNLLQQIDCGTSCSARCRLSSRPRLCKRACGTCCARCNCVPSGTAGNLDECPCYANMTTHGNKRKCP
+>02325|APD|Cliotide T7 (CT7; Cter R; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GIPCGESCVFIPCTVTALLGCSCKDKVCYKN
+>02326|APD|Cliotide T10 (CT10; Cter B; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GVPCAESCVWIPCTVTALLGCSCKDKVCYLN
+>02258|APD|Snakin-Z (natural AMPs; plants)|fruits, Zizyphus jujuba
+CARLNCVPKGTSGNTETCPCYASLHSCRKYG
+>02329|APD|Lunasin (natural AMPs; plants)|Glycine max
+SKWQHQQDSCRKQLQGVNLTPCEKHIMEKIQGRGDDDDDDDDD
+>02340|APD|Cyclosaplin (natural AMPs; cyclic peptides; plants; XXC, UCBB1aA)|somatic seedlings,  Santalum album L.
+RLGDGCTR
+>02327|APD|Cliotide T12 (CT12; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GIPCGESCVYIPCTVTALLGCSCKDKVCYKN
+>02332|APD|PaDef (P. americana defensin; natural AMPs; plants; UCSS1a; 4S=S)|Avocado Fruit, Persea americana var. drymifolia
+CETPSKHFNGLCIRSSNCASVCHGEHFTDGRCQGVRRRCMCLKPC
+>02342|APD|Potamin-1 (PT-1; natural AMPs; plants)|potato, Solanum tuberosum L cv. Gogu
+DICTNCCAGTKGCNTTSANGAFICEGQSDPKKPKACPLNCDPHIAYA
+>02341|APD|Peptide-G2 (PG-2, natural AMPs; plants; BWQ, unclassified)|potato, Sanum tuberosum L cv. Gogu Valley
+LVKDNPLDISPKQVQALCTDLVIRCMCCC
+>02377|APD|Tk-AMP-X2 (natural AMPs; alpha-hairpinin structural family; plants)|wheat, Triticum kiharae Dorof. et Migush
+ADDRCERMCQRYHDRREKKQCMKGCRYG
+>02405|APD|Plantaricin CS (natural AMPs;  plants)|Coriander extract, Chinese parsley, Coriandrum sativum
+GGYKNFYGSALRKGFYEGEAGRAIRR
+>02328|APD|Cliotide T19 (CT19; natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; Fabaceae, plants)|Clitoria ternatea
+GSVIKCGESCLLGKCYTPGCTCSRPICKKD
+>02428|APD|MtDef4 (M. Truncatula defensin 4, natural AMPs; UCSS1a; 4S=S, plants)|barrel Clover seeds, Medicago Truncatula
+RTCESQSHKFKGPCASDHNCASVCQTERFSGGRCRGFRRRCFCTTHC
+>02407|APD|Hispidalin (natural AMPs; medicinal plants)|Seeds, winter melon, Benincasa hispida
+SDYLNNNPLFPRYDIGNVELSTAYRSFANQKAPGRLNQNWALTADYTYR
+>02422|APD|Lc-def (L. culinaris defensin, natural AMPs; dimer, UCSS1a; 4S=S, plants; BBMm)|lentil  Lens culinaris
+KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC
+>02436|APD|MsSN-1 (MsSN1; Alfalfa snakin-1, natural AMPs; plants; UCSS1a; 6S=S)|the “Queen of Forages”, Medicago sativa
+GTDSGRFCSSICGQRCSKAGMKDRCMKFCGICCGKCKCVPSGTYGNKHECPCYRDMKNSKGKPKCP
+>02496|APD|ARACIN1 (natural AMPs; plants)|Arabidopsis thaliana
+GSCGASIAEFNSSQILAKRAPPCRRPRLQNSEDVTHTTLP
+>02497|APD|ARACIN2 (natural AMPs; plants)|Arabidopsis thaliana
+GSCGAPISKYDFQVLAKRPPPCRRPRLENTEDVTHTTRP
+>02522|APD|AhPDF1.1 (natural AMPs; defensin, plants; XXQ; 4S=S; UCSS1a)|intracellular compartments, Arabidopsis halleri
+QRLCEKPSGTWSGVCGNNGACRNQCIRLEKARHGSCNYVFPAHKCICYFPC
+>02477|APD|EcAMP3 (E. crus-galli AMP 3; Arg-rich; natural AMPs; hairpin-like peptides; 2S=S; plants; UCSS1a)|barnyard grass seeds, Echinochloa crusgalli L.
+GADRCRERCERRHRGDWQGKQRCLMECRRREQEED
+>02523|APD|PSI-1.2 (S3 fraction, Proteinase inhibitor, natural AMPs; plants; 4S=S; UCSS1a)|seeds, Bell pepper, Capsicum annuum
+KACPRNCDTDIAYMVCPSSGERIIRKVCTNCCAAQKGCKLFRSNGSIKCTGT
+>02532|APD|Flo (Moringa oleifera cationic protein, MOCP; natural AMPs; plants; XXQ)|seeds; Moringa oleifera Lam
+QGPGRQPDFQRCGQQLRNISPPQRCPSLRQAVQLTHQQQGQVGPQQVRQMYRVASNIPST
+>02559|APD|Tk-AMP-X1 (natural AMPs; plants; 2S=S, UCSS1a)|wheat,  Triticum kiharae Dorof. et Migush
+TDDRCERMCQHYHDRREKKQCMKGCRYGESD
+>02571|APD|Cycloviolacin VY1 (natural AMPs; cyclotides, plants; XXC; 3S=S; UCBB1ab)|Viola yedoensis
+CGESCVFIPCITTVLGCSCSIKVCYKNGSIP
+>02601|APD|BnPRP1 (natural AMPs; Pro-rich peptide; plants; UCLL1a)|Brassica napus
+PPIQNPSMAPPTQNPYGQPMTPPTQNPYGQPMAPP
+>02585|APD|SmAMP3 (natural AMPs; Gly-rich; chitin-binding,  plants; 3S=S, UCSS1a)|leaves, weed,  Stellaria media L.
+VGPGGECGGRFGGCAGGQCCSRFGFCGSGPKYCAH
+>02627|APD|Ep-AMP1 (E. pachanoi AMP 1;  natural AMPs; cystine knot Peptide, 3S=S; UCSS1a; BBMm; plants)|Echinopsis pachanoi
+CVLIGQRCDNDRGPRCCSGQGNCVPLPFLGGVCAV
+>02657|APD|Vigno 5 (natural AMPs; cyclotides, plants; 3S=S, XXC; UCBB1ab; more AMPs? Vigno 1-4, 6-10)|Viola ignobilis
+GLPLCGETCVGGTCNTPGCSCGWPVCVRN
+>02658|APD|Psysol 2 (natural AMPs; cyclotides, plants; 3S=S, XXC; UCBB1ab)|Psychotria solitudinum
+GLPICGESCVGGTCNTPGCTCTWPVCTRN
+>02628|APD|Jaburetox-2Ec (jbtx; a fragment of canatoxin, a urease isoform; natural AMPs; plants; pepcanatox; UCLL1a)|Canavalia ensiformis
+MGPVNEANCKAAMEIVCRREFGHKEEEDASEGVTTGDPDCPFTKAIPREEYANKYGPTIGDKIRLGDTDLIAEIEKDFALYGDESVFGGGKVI
+>02660|APD|DC2 (natural AMPs; dissusa cyclotide 2, plants; 3S=S, XXC; UCBB1ab)|Hedyotis diffusa
+GAVPCGETCVYLPCITPDIGCSCQNKVCYRD
+>02659|APD|DC1 (natural AMPs; dissusa cyclotide 1, natural AMPs; plants; 3S=S, XXC; UCBB1ab)|Hedyotis diffusa
+GAFLKCGESCVYLPCLTTVVGCSCQNSVCYRD
+>02661|APD|DC3 (dissusa cyclotide 3, natural AMPs; plants; 3S=S, XXC; UCBB1ab)|Hedyotis diffusa
+GTSCGETCVLLPCLSSVLGCTCQNKRCYKD
+>02674|APD|MB1533 (natural AMPs; defensin; 3s=s, UCSS1A; plants)|Intracellular Meristem Endophyte, Scots Pine, Methylobacterium extorquens  DSM13060
+ATTAMSRPGQIMTTRDMNIECRGNGWVGRGARDCCSGRCRVLKSKRCKCIGNKPSF
+>02685|APD|Cliotide 15 (cT15, natural AMPs; cyclotides, plants; XXC, 3S=S, UCBB1ab)|the Butterfly Pea, Clitoria ternatea
+GLPICGETCFKTKCYTKGCSCSYPVCKRN
+>02686|APD|Cliotide 16 (cT16, natural AMPs; cyclotides, plants; XXC, 3S=S, UCBB1ab)|the Butterfly Pea, Clitoria ternatea
+GSVIGCGETCLRGRCYTPGCTCDHGICKKN
+>02687|APD|Cliotide 20 (cT20, natural AMPs; cyclotides, plants; XXC, 3S=S, UCBB1ab)|the Butterfly Pea, Clitoria ternatea
+GSAIRCGESCLLGKCYTPGCTCDRPICKKN
+>02707|APD|Tomato Snakin-2 (natural AMPs; plants; 6S=S; UCSS1a)|Solanum lycopersicum
+DSYKKIDCGGACAARCRLSSRPRLCHRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP
+>02736|APD|AtPDF2.3 (natural AMPs; flowering plants; UCSS1a, 4S=S)|Arabidopsis thaliana
+RTCESKSHRFKGPCVSTHNCANVCHNEGFGGGKCRGFRRRCYCTRHC
+>02769|APD|Cc-LTP2 (Coffea canephora lipid transfer protein 2, plants; BWQ, unclassified)|seeds, Coffea canephora Pierre
+ITCQQVTAELEPCVPYLTQGIP
+>02737|APD|Labaditin (Lo; natural AMPs; plants; XXC; UCBB1aA)|nan
+VWTVWGTIAG
+>02772|APD|Thionin-like peptide 1 (plants; 4S=S; UCSS1a)|Fruits, Capsicum annuum
+KEICCKVPTTPFLCTNDPQCKTLCSKVNYEDGHCFDILSKCVCMNRCVQDAKTLAAELIEEEFLKQ
+>02773|APD|CaThi (thionin-like peptide 2; plants; 4S=S; UCSS1a)|Fruits, Capsicum annuum
+KEICCKELTKPVKCSSDPLCQKLCMEKEKYEDGHCFTILSKCLCMKRCNAKTLATELLA
+>02787|APD|NCR247 (nodule-specific Cys-containing peptide; Arg-rich; natural AMPs; plants; BBMm; UCSS1a)|symbiont bacteria, Medicago truncatula
+RNGCIVDPRCPYQQCRRPLYCRRR
+>02771|APD|Dm-AMP2 (Dahlia defensin, plants; BWQ, unclassified)|seeds, Dahlia merckii
+EVCEKASKTWSGNCGNTGHC
+>02788|APD|NCR335 (nodule-specific Cys-containing peptides; natural AMPs; plants; BBMm,UCSS1a)|symbiont bacteria, Medicago truncatula
+RLNTTFRPLNFKMLRFWGQNRNIMKHRGQKVHFSLILSDCKTNKDCPKLRRANVRCRKSYCVPI
+>02853|APD|OsDEF8 (dimer; natural AMPs; plants, 4S=S, UCSS1a)|rice, Oryza sativa L
+RTCESQSHRFKGPCARKANCASVCNTEGFPDGYCHGVRRRCMCTKPCP
+>02852|APD|OsDEF7 (OsAFP1; dimer; natural AMPs; plants, 4S=S, UCSS1a; BBII)|rice, Oryza sativa L
+RHCLSQSHRFKGMCVSSNNCANVCRTESFPDGECKSHGLERKCFCKKVC
+>02987|APD|Brucin (natural AMPs; plants)|fruits, Brucea javanica
+HTLCMDGGATY
+>03019|APD|Ps-AFP1 (P. sativum antifungal peptide 1; natural AMPs; plants; 2S=S; UCSS1a)|peas radicle, Pisum sativum
+RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR
+>03055|APD|Beta-astratide bM1 (natural AMPs; defensin; 4S=S; UCSS1a; Chinese medicinal plants)|Huang Qi, Astragalus membranaceus
+CEKPSKFFSGPCIGSSGKTQCAYLCRRGEGLQDGNCKGLKCVCAC
+>03056|APD|MCh-AMP1 (M. chamomilla AMP 1; natural AMPs; medicinal plants; UCLL1a)|Matricaria chamomilla L.
+LSVKAFTGIQLRGVCGIEVKARG
+>03072|APD|ZmD32 (Z. mays defensin, natural AMPs; plants; 4S=S; UCSS1a)|Corn, Zea mays
+RTCQSQSHRFRGPCLRRSNCANVCRTEGFPGGRCRGFRRRCFCTTHC
+>03082|APD|Skh-AMP1 (natural AMPs; plants, UCLL1)|leaves, Satureja khuzistanica
+GRTSKQELCTWERGSVRQADKTIAG
+>03083|APD|aM1 (natural AMPs; plants, 3S=S; UCSS1a)|Huang Qi, Astragalus membranaceus
+VDCSGACSPFEVPPCGSRDCRCIPIGLVVGFCIYPTG
+>03113|APD|Cter E (natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab; plants)|Clitoria ternatea
+GIPCAESCVWIPCTVTALLGCSCKDKVCYLD
+>03114|APD|Cter G (natural AMPs; cyclotides; XXC; 3S=S, UCBB1ab;  plants)|Clitoria ternatea
+GLPCGESCVFIPCITTVVGCSCKNKVCYNN
+>03130|APD|Atr-AMP1 (natural AMPs; Pro-rich; medicinal plants, 1S=S; UCSS1a; XXO; XXK3)|Amaranthus tricolor
+MLCPSYRRCPRVPP
